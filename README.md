@@ -12,4 +12,4 @@ A _growth mindset_ happens when one believes that success can be achieved throug
 4. Be inspired by the success of others, in lieu of viewing it as a threat.
 
 ## Learning Journal Entries
-- [Learning Markdown](LEARNING_MARKDOWN.md)
+- [Learning Markdown](https://github.com/mlhaus/learning-journal/blob/master/LEARNING_MARKDOWN.md)
