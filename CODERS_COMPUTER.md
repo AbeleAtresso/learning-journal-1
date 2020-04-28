@@ -20,7 +20,12 @@ I worked through the [Linux tutorial on Ryans Tutorials](https://ryanstutorials.
 - `pwd`: Tells you what your current (or present working) directory is. Short for 'print working directory'
 - `ls`: Lists the contents of the current directory. Short for 'list'
   - `ls -l`: Displays a long listing of contents
-  - `ls Directory`: List the contents of a specific subdirectory instead of the current directory's contents. Using a `/` by itself will reference the root directory. Using a `./` (or omitting this) will reference the current directory. Using `../` will reference the parent directory. Using `~` will reference the home directory
+  - `ls [path]`: List the contents of a specific subdirectory instead of the current directory's contents. Using a `/` by itself will reference the root directory. Using a `./` (or omitting this) will reference the current directory. Using `../` will reference the parent directory. Using `~` will reference the home directory
 - `cd`: Changes the current directory.
-  - `cd Directory`: Move to a specific subdirectory. Using `cd /` will move you to the root directory. Using a `./Directory` (or omitting this) will move in relation to the current directory. Using `cd ../Directory` will move in relation to the parent directory. Using `cd ~` will move you to the home directory. 
+  - `cd [path]`: Move to a specific subdirectory. Using `cd /` will move you to the root directory. Using a `./Directory` (or omitting this) will move in relation to the current directory. Using `cd ../Directory` will move in relation to the parent directory. Using `cd ~` will move you to the home directory. 
   - As you start typing a path you may press the Tab key at any time to invoke an auto complete action.
+
+### More About Files
+- `file`: Tells you what type of files something is. Examples include: directory, audio file, images, text file, executable file, etc.
+  - `file [path]`: Specify the specific file to reference. Use single or double quotes around path names that have spaces.
+- Hidden files: If the file or directory's name begins with a `.` then it is considered to be hidden. To list all contents of a directory, including hidden files use the `ls -a` command. 
