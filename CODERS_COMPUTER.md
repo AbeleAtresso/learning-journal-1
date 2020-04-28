@@ -12,3 +12,15 @@ layout: default
 - Node and NPM: Node is a Javascript runtime environment. NPM is a package manager for Node. It gives me access to install programs from an online registry. 
 - ESLint: A tool that identifies problems found in JavaScript code. It helps me solve code errors and style issues.
 - Tree: A command that I can type into the terminal to display a list of all directories and folders in a tree view format.
+
+## Command Line Cheat Sheet
+I worked through the [Linux tutorial on Ryans Tutorials](https://ryanstutorials.net/linuxtutorial/) and came up with this cheat sheet.
+
+### Basic Navigation
+- `pwd`: Tells you what your current (or present working) directory is. Short for 'print working directory'
+- `ls`: Lists the contents of the current directory. Short for 'list'
+  - `ls -l`: Displays a long listing of contents
+  - `ls Directory`: List the contents of a specific subdirectory instead of the current directory's contents. Using a `/` by itself will reference the root directory. Using a `./` (or omitting this) will reference the current directory. Using `../` will reference the parent directory. Using `~` will reference the home directory
+- `cd`: Changes the current directory.
+  - `cd Directory`: Move to a specific subdirectory. Using `cd /` will move you to the root directory. Using a `./Directory` (or omitting this) will move in relation to the current directory. Using `cd ../Directory` will move in relation to the parent directory. Using `cd ~` will move you to the home directory. 
+  - As you start typing a path you may press the Tab key at any time to invoke an auto complete action.
