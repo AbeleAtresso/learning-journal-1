@@ -13,3 +13,4 @@ A _growth mindset_ happens when one believes that success can be achieved throug
 
 ## Learning Journal Entries
 - [Learning Markdown](LEARNING_MARKDOWN.md)
+- [Coder's Computer](CODERS_COMPUTER.md)
