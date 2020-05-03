@@ -7,7 +7,7 @@ A _growth mindset_ happens when one believes that success can be achieved throug
 3. Learn from criticism, instead of ignoring it.
 4. Be inspired by the success of others, in lieu of viewing it as a threat.
 
-## Learning Journal Navigation
+## Site Navigation
 - [Home](README.md)
 - [Growth Mindset](GROWTH_MINDSET.md)
 - [Learning Markdown](LEARNING_MARKDOWN.md)

@@ -11,7 +11,7 @@ Markdown allows us to control the appearance of the text similar to HTML (Hypert
 - [Markdown Editor VS Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)
 - [Markdown Editor Online](https://pandao.github.io/editor.md/en.html)
 
-## Learning Journal Navigation
+## Site Navigation
 - [Home](README.md)
 - [Growth Mindset](GROWTH_MINDSET.md)
 - [Learning Markdown](LEARNING_MARKDOWN.md)

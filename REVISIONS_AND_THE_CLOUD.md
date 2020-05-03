@@ -16,7 +16,7 @@ Changes made to GitHub repositories do not have to be made directly on GitHub. I
 8. Refresh the GitHub repository and see the changes.
 9. Repeat steps 6-8.
 
-## Learning Journal Navigation
+## Site Navigation
 - [Home](README.md)
 - [Growth Mindset](GROWTH_MINDSET.md)
 - [Learning Markdown](LEARNING_MARKDOWN.md)
