@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Coder's Computer
 [I ran commands in the terminal](https://codefellows.github.io/code-201-prework/prework/) to prepare my computer for coding. I installed VS Code, Git, Node and NPM, ESLint, and more!
 
