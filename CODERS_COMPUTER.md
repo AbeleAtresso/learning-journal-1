@@ -25,3 +25,9 @@ I worked through the [Linux tutorial on Ryans Tutorials](https://ryanstutorials.
 - `file`: Tells you what type of files something is. Examples include: directory, audio file, images, text file, executable file, etc.
   - `file [path]`: Specify the specific file to reference. Use single or double quotes around path names that have spaces.
 - Hidden files: If the file or directory's name begins with a `.` then it is considered to be hidden. To list all contents of a directory, including hidden files use the `ls -a` command. 
+
+## Learning Journal Navigation
+- [Home](README.md)
+- [Growth Mindset](GROWTH_MINDSET.md)
+- [Learning Markdown](LEARNING_MARKDOWN.md)
+- [Coder's Computer](CODERS_COMPUTER.md)
