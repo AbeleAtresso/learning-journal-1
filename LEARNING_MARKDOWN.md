@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Learning Markdown
 In GitHub, we can create respositories to store and share software application code. Upon creating a repository, we can add markdown (.md) files such as README.md or index.md that will display text on the repo's main page. It is often used as a title page and table of contents for the application. 
 
