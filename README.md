@@ -7,3 +7,4 @@ My name is **Marc Hauschildt** and I am a computer science teacher. Between 2004
 - [Growth Mindset](GROWTH_MINDSET.md)
 - [Learning Markdown](LEARNING_MARKDOWN.md)
 - [Coder's Computer](CODERS_COMPUTER.md)
+- [Revisions and the Cloud](REVISIONS_AND_THE_CLOUD.md)

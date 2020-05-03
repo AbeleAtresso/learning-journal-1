@@ -31,3 +31,4 @@ I worked through the [Linux tutorial on Ryans Tutorials](https://ryanstutorials.
 - [Growth Mindset](GROWTH_MINDSET.md)
 - [Learning Markdown](LEARNING_MARKDOWN.md)
 - [Coder's Computer](CODERS_COMPUTER.md)
+- [Revisions and the Cloud](REVISIONS_AND_THE_CLOUD.md)
