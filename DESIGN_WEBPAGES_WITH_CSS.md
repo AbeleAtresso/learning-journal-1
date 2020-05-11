@@ -41,7 +41,12 @@ p {
 ```
 
 ### Duckett: HTML & CSS, Chapter 11 - Color
+There are [6 ways to specify colors in CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value): (1) color names, (2) Hexadecimal values, (3) RGB values, (4) HSL values, (5) HSV values, and (6) CMYK values. Colors can be used for text color, background color, and border color.
+- Color names: There are over 100 predefined names including red, white, blue, green, etc.
+- Hexadecimal and RGB values: There are over 16 million color combinations that can be made with both Hexadecimal and RGB values. Additionally, both support an alpha channel to control transparency.
+- HSL values allows us to control the hue, saturation, and lightness of a color. This is one of my favorites because it allows me to create a set of matching colors easily. 
 
+It's important that text is readable (has high contrast) to make sure that all users have equitable access to the website/app. Dark text on light background colors, and vice versa, are recommended.
 
 ## Site Navigation
 - [Home](README.md)
