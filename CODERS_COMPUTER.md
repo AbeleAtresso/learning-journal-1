@@ -34,3 +34,4 @@ I worked through the [Linux tutorial on Ryans Tutorials](https://ryanstutorials.
 - [Revisions and the Cloud](REVISIONS_AND_THE_CLOUD.md)
 - [Structure Webpages With HTML](STRUCTURE_WEBPAGES_WITH_HTML.md)
 - [Design Webpages With CSS](DESIGN_WEBPAGES_WITH_CSS.md)
+- [Dynamic Webpages with JavaScript](DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
