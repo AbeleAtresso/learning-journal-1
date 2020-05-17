@@ -35,3 +35,4 @@ JavaScript is a programming language that allows me to write code that instructs
 - [Structure Webpages With HTML](STRUCTURE_WEBPAGES_WITH_HTML.md)
 - [Design Webpages With CSS](DESIGN_WEBPAGES_WITH_CSS.md)
 - [Dynamic Webpages with JavaScript](DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
+- [Computer Architecture and Logic](COMPUTER_ARCHITECTURE_AND_LOGIC.md)

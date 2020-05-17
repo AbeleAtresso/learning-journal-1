@@ -30,3 +30,4 @@ HTML5 introduced new sets of HTML elements used to define webpage structure. Pre
 - [Structure Webpages With HTML](STRUCTURE_WEBPAGES_WITH_HTML.md)
 - [Design Webpages With CSS](DESIGN_WEBPAGES_WITH_CSS.md)
 - [Dynamic Webpages with JavaScript](DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
+- [Computer Architecture and Logic](COMPUTER_ARCHITECTURE_AND_LOGIC.md)

@@ -11,3 +11,4 @@ My name is **Marc Hauschildt** and I am a computer science teacher. Between 2004
 - [Structure Webpages With HTML](STRUCTURE_WEBPAGES_WITH_HTML.md)
 - [Design Webpages With CSS](DESIGN_WEBPAGES_WITH_CSS.md)
 - [Dynamic Webpages with JavaScript](DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
+- [Computer Architecture and Logic](COMPUTER_ARCHITECTURE_AND_LOGIC.md)
