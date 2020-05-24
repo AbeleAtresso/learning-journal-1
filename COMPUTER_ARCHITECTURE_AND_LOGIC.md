@@ -20,4 +20,4 @@ Computers use millions of microscopic electronic components to modify and combin
 - [Design Webpages With CSS](DESIGN_WEBPAGES_WITH_CSS.md)
 - [Dynamic Webpages with JavaScript](DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
 - [Computer Architecture and Logic](COMPUTER_ARCHITECTURE_AND_LOGIC.md)
-- [Programming with JavaScript](PROGRAMMING _WITH_JAVASCRIPT.md)
+- [Programming with JavaScript](PROGRAMMING_WITH_JAVASCRIPT.md)

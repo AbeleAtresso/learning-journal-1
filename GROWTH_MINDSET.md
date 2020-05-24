@@ -17,4 +17,4 @@ A _growth mindset_ happens when one believes that success can be achieved throug
 - [Design Webpages With CSS](DESIGN_WEBPAGES_WITH_CSS.md)
 - [Dynamic Webpages with JavaScript](DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
 - [Computer Architecture and Logic](COMPUTER_ARCHITECTURE_AND_LOGIC.md)
-- [Programming with JavaScript](PROGRAMMING _WITH_JAVASCRIPT.md)
+- [Programming with JavaScript](PROGRAMMING_WITH_JAVASCRIPT.md)
