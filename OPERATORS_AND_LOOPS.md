@@ -14,7 +14,7 @@ Logical operators can be used to compare the results of two or more comparison o
 
 When multiple logical operators are used in a single expression, the AND operator(s) will be evaluated before OR operator(s).
 
-| a | b | a && b | a || b | !a |
+| a | b | a && b | a \|\| b | !a |
 |---|---|--------|--------|----|
 | t | t |   t    |   t*   | f  |
 | t | f |   f    |   t*   | f  |
