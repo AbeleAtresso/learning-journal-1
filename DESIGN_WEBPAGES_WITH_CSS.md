@@ -59,3 +59,4 @@ It's important that text is readable (has high contrast) to make sure that all u
 - [Dynamic Webpages with JavaScript](DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
 - [Computer Architecture and Logic](COMPUTER_ARCHITECTURE_AND_LOGIC.md)
 - [Programming with JavaScript](PROGRAMMING_WITH_JAVASCRIPT.md)
+- [Operators and Loops](OPERATORS_AND_LOOPS.md)
